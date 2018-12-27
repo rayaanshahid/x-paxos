@@ -7,7 +7,7 @@ import (
     "sync"
     "encoding/gob"
     "time"
-    "github.com/definitions"
+    "x-paxos/definitions"
     //"math"
     //"bytes"
     //"strconv"
