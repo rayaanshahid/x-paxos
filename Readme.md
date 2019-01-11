@@ -14,7 +14,7 @@ or
 number of nodes: 5
 node id: 2
 
-2. Start 3 client nodes. To start each client node, you have to enter the client id. For example :-
+2. Start 3 client nodes (autoClientP2P.go). To start each client node, you have to enter the client id. For example :-
 
 client id : 1
 
